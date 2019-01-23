@@ -1,5 +1,7 @@
+# The original fork is temporarily down due to negociations on graphics used. If you happen to be an artist and not happy to have your art in the game while not being credited, please contact the original authors on the official repo and negociate with them. This fork will close when the issues will be resolved on the official repo.
+
 # battle-puno
-Battle Puno (https://battle-puno.github.io/battle-puno/)
+Battle Puno (https://maxlefou.github.io/battle-puno/)
 
 
 ## Battle-Puno | Rules v1.0.0
