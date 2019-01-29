@@ -1,4 +1,4 @@
-# The original fork is temporarily down due to negociations on graphics used. If you happen to be an artist and not happy to have your art in the game while not being credited, please contact the original authors on the official repo and negociate with them. This fork will close when the issues will be resolved on the official repo.
+# The original fork seems to be no more. I keep this one alive for archiving sake.
 
 # battle-puno
 Battle Puno (https://maxlefou.github.io/battle-puno/)
