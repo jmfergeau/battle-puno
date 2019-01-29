@@ -1,4 +1,4 @@
-# The original fork seems to be no more. I keep this one alive for archiving sake.
+# The original fork seems to be no more. I keep this one alive for archiving and historic sake.
 
 # battle-puno
 Battle Puno (https://maxlefou.github.io/battle-puno/)
