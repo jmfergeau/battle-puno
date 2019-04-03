@@ -1,5 +1,8 @@
 # The original fork (battle-puno.github.io) seems to be no more. I keep this one alive for archiving and historic sake.
 
+![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/maxlefou/battle-puno.svg)
+![Crates.io](https://img.shields.io/crates/l/license.svg)
+
 # battle-puno
 Battle Puno (https://maxlefou.gitlab.io/battle-puno/)
 
