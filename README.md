@@ -1,4 +1,4 @@
-# The original fork (battle-puno.github.io) seems to be no more. I keep this one alive for archiving and historic sake.
+> The original fork (battle-puno.github.io) has been taken off by the author, apparently because of the artworks used. This is the last known working version, made available for archiving and historic sake.
 
 ![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/maxlefou/battle-puno.svg)
 ![Crates.io](https://img.shields.io/crates/l/license.svg)
